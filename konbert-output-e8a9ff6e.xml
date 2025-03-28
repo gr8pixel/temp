@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;items&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;item&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;id&gt;1001-BLUE-M&lt;/id&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;title&gt;Men's Denim Jacket&lt;/title&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;description&gt;Classic blue denim jacket with button closure and chest pockets.&lt;/description&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;brand&gt;Levi's&lt;/brand&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;link&gt;https://example.com/products/1001&lt;/link&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;image_link&gt;https://placehold.co/600x800/003f5c/ffffff?text=Denim+Jacket&lt;/image_link&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;additional_image_link&gt;https://placehold.co/600x800/003f5c/ffffff?text=Side+View&lt;/additional_image_link&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;additional_image_link&gt;https://placehold.co/600x800/003f5c/ffffff?text=Back+View&lt;/additional_image_link&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;price&gt;89.95 EUR&lt;/price&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;sale_price&gt;79.95 EUR&lt;/sale_price&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;availability&gt;in stock&lt;/availability&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;color&gt;Blue&lt;/color&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;condition&gt;new&lt;/condition&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;gender&gt;male&lt;/gender&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;age_group&gt;adult&lt;/age_group&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;delivery_time&gt;2-3 days&lt;/delivery_time&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;material&gt;100% Cotton&lt;/material&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;gtin&gt;8711234567890&lt;/gtin&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;mpn&gt;DJ1001M&lt;/mpn&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;size&gt;M&lt;/size&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;stock&gt;25&lt;/stock&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;item_group_id&gt;1001-BLUE&lt;/item_group_id&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;product_type&gt;Men &gt; Jackets &gt; Denim&lt;/product_type&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;shipping_price&gt;4.95 EUR&lt;/shipping_price&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;/item&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;item&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;id&gt;1002-BLACK-L&lt;/id&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;title&gt;Women's Leather Biker Jacket&lt;/title&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;description&gt;Genuine leather biker jacket with asymmetrical zipper and belted waist.&lt;/description&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;brand&gt;ZARA&lt;/brand&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;link&gt;https://example.com/products/1002&lt;/link&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;image_link&gt;https://placehold.co/600x800/2f4b7c/ffffff?text=Biker+Jacket&lt;/image_link&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;additional_image_link&gt;https://placehold.co/600x800/2f4b7c/ffffff?text=Side+View&lt;/additional_image_link&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;additional_image_link&gt;https://placehold.co/600x800/2f4b7c/ffffff?text=Back+View&lt;/additional_image_link&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;price&gt;149.00 EUR&lt;/price&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;sale_price&gt;129.00 EUR&lt;/sale_price&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;availability&gt;in stock&lt;/availability&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;color&gt;Black&lt;/color&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;condition&gt;new&lt;/condition&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;gender&gt;female&lt;/gender&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;age_group&gt;adult&lt;/age_group&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;delivery_time&gt;1-2 days&lt;/delivery_time&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;material&gt;100% Leather&lt;/material&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;gtin&gt;8711234567891&lt;/gtin&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;mpn&gt;WBJ1002L&lt;/mpn&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;size&gt;L&lt;/size&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;stock&gt;10&lt;/stock&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;item_group_id&gt;1002-BLACK&lt;/item_group_id&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;product_type&gt;Women &gt; Jackets &gt; Leather&lt;/product_type&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;shipping_price&gt;0.00 EUR&lt;/shipping_price&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;/item&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;item&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;id&gt;1003-WHITE-S&lt;/id&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;title&gt;Unisex Hoodie White&lt;/title&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;description&gt;Cozy unisex hoodie in white with a minimalist print.&lt;/description&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;brand&gt;H&amp;M&lt;/brand&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;link&gt;https://example.com/products/1003&lt;/link&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;image_link&gt;https://placehold.co/600x800/665191/ffffff?text=White+Hoodie&lt;/image_link&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;additional_image_link&gt;https://placehold.co/600x800/665191/ffffff?text=Side+View&lt;/additional_image_link&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;additional_image_link&gt;https://placehold.co/600x800/665191/ffffff?text=Back+View&lt;/additional_image_link&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;price&gt;29.99 EUR&lt;/price&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;sale_price&gt;24.99 EUR&lt;/sale_price&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;availability&gt;in stock&lt;/availability&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;color&gt;White&lt;/color&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;condition&gt;new&lt;/condition&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;gender&gt;unisex&lt;/gender&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;age_group&gt;adult&lt;/age_group&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;delivery_time&gt;2-5 days&lt;/delivery_time&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;material&gt;Cotton blend&lt;/material&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;gtin&gt;8711234567892&lt;/gtin&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;mpn&gt;UH1003S&lt;/mpn&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;size&gt;S&lt;/size&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;stock&gt;50&lt;/stock&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;item_group_id&gt;1003-WHITE&lt;/item_group_id&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;product_type&gt;Unisex &gt; Tops &gt; Hoodies&lt;/product_type&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;shipping_price&gt;3.50 EUR&lt;/shipping_price&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;/item&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;!-- Continue in this pattern for items 1004 to 1015 --&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+  <row>
+    <_xml_version_1_0_encoding_UTF_8_>&lt;/items&gt;</_xml_version_1_0_encoding_UTF_8_>
+  </row>
+</root>
